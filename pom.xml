@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <parent>
+	<groupId>com.zs.light.spider</groupId>
+	<artifactId>spider-parent</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<relativePath>..</relativePath>
+  </parent>
+
+  <artifactId>spider-center</artifactId>
+  <packaging>war</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>spider-center Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+  
+  <dependencies>
+    
+  </dependencies>
+  <build>
+    <finalName>spider-center</finalName>
+  </build>
+</project>
